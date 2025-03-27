@@ -1,3 +1,4 @@
 # techvaish
-this is my first repository
-Author : Vaishnavi Aher
+this is my first repository.
+<br>
+Author : Vaishnavi Aher.
